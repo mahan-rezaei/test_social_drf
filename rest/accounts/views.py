@@ -49,7 +49,7 @@ class UserLoginView(GenericAPIView):
 
 class UserLogoutView(APIView):
     """logout a user./"""
-    # TODO: local storage can be delete by frontend_developer?
+    # TODO: local storage can be deleted in fronted?
     pass
 
 
